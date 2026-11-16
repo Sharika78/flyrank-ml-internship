@@ -4,6 +4,37 @@
 "Empowering decisions through data-driven machine learning solutions and clean, impactful engineering."
 
 ## 2. Content Map & CTAs
+
+### Page 1: Home Page (Landing)
+* **Sections in Order:** 
+  1. Hero section with the one-line claim and clean whitespace.
+  2. Brief introduction (CSE student at Presidency University & ML Engineer Intern).
+  3. Featured Projects preview (highlighting the strongest work first).
+* **Call to Action (CTA):** "Explore My Projects" (directing visitors to the projects page).
+
+### Page 2: Projects Page
+* **Sections in Order:**
+  1. Header introducing technical problem-solving capabilities.
+  2. Case Study 1 (Strongest Work): Brain Tumor Classification Web App (Streamlit & Deep Learning).
+  3. Case Study 2: Bangla Handwritten Prescription OCR Tool (`bangla-handwritten-ocr`).
+* **Call to Action (CTA):** "View Live Demo" or "Check GitHub Repository".
+
+### Page 3: About Page
+* **Sections in Order:**
+  1. Personal background, education (Presidency University, Cumilla Govt Women's College), and professional experience.
+  2. Technical skills (Python, C, C++, Java, Machine Learning, Computer Vision).
+  3. Professional profiles (GitHub, Kaggle, LinkedIn).
+* **Call to Action (CTA):** "Get in Touch" / Email contact.
+
+## 3. Still Need to Gather List
+* High-resolution UI screenshots of the Streamlit brain tumor detection web application.
+* Live deployment URLs and active demo links for finished repositories.
+* Quantitative performance numbers/accuracy metrics for the OCR tool and machine learning models.
+* Testimonials or peer feedback from project partnerships (e.g., Humayra Islam).
+## 1. One-Line Claim
+"Empowering decisions through data-driven machine learning solutions and clean, impactful engineering."
+
+## 2. Content Map & CTAs
 * **Home Page:** Hero section with the one-line claim, brief intro, and primary CTA ("View Projects").
 * **Projects Page:** Showcasing ML models (Brain Tumor Classification, Bangla Handwritten OCR) ordered by impact.
 * **About Page:** Background in Computer Science and Engineering at Presidency University, technical skills (Python, C++, Java), and experience as an ML Engineer Intern.
