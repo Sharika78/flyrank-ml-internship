@@ -21,3 +21,14 @@
 ## 4. Image Curation & Rejection Note
 * **Used:** Real screenshots of the working Streamlit web app and clean code snippets.
 * **Rejected AI Image:** Rejected a generated "abstract glass-morphism neural network" hero image because it looked overly fake ("AI slop") and distracted from the actual technical case studies.
+## 5. Image Curation & Rejection Note
+
+### Image List & Choices (The Keepers)
+* **Project Work (Real Captures):** Clean, cropped, and legible screenshots of my Streamlit web app (Brain Tumor Classification) and clean code snippets from my GitHub repository to serve as direct proof of my work.
+* **Connective Tissue (AI Generated):** A minimal, consistent background texture for section dividers, generated using a strict prompt to maintain the exact color palette (near-white background and professional blue accent).
+* **Personal Photo (Real Photo):** A professional headshot of myself for the 'About' section, ensuring authenticity.
+
+### Rejection Note (Discernment)
+* **Rejected Image:** An AI-generated futuristic "neural network brain hologram" intended for the hero section.
+* **Why it was rejected:** It looked overly glossy, artificial, and carried that typical "AI slop" aesthetic. It created unnecessary visual clutter and would have upstaged my actual technical case studies instead of framing them. A clean, quiet title over whitespace works much better.
+* 
